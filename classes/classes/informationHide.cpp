@@ -1,0 +1,46 @@
+#include <iostream>
+using namespace std;
+
+/*
+	- 접근 제어자: private, public
+				  멤버 변수는 기본적으로 private 속성이다.
+				  함수 형태: set+ 멤버변수이름(), get+멤버변수이름()
+
+*/
+
+class Dog {
+private:
+	string type;
+	int age;
+
+
+public:
+	//설정자(setter)
+	void setType(string _type) {
+		type = _type;
+	}
+	void setAge(int _age) {
+		age = _age;
+	}
+
+	//접근자(getter)
+	string getType() {
+		return type;
+	}
+	int getAge() {
+		return age;
+	}
+};
+
+int main()
+{
+	Dog dog1;
+	//dog1.type 접근 불가
+	dog1.setType("진돗개");
+	dog1.setAge(3);
+
+	cout << dog1.getType() << endl;
+	cout << dog1.getAge() << endl;
+
+	return 0;
+}

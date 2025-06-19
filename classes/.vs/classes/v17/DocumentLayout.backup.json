@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\thisSample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\thisSample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classDog3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classDog3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\informationHide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\informationHide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classDog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classDog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|C:\\cplusworks\\classes\\classes\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{981B45D4-5CE8-435F-BD4F-E6DFDB6F5621}|classes\\classes.vcxproj|solutionrelative:classes\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classRef.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classRef.cpp",
+              "RelativeDocumentMoniker": "classes\\classRef.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classRef.cpp",
+              "RelativeToolTip": "classes\\classRef.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T12:43:18.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "memberService.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\memberService.cpp",
+              "RelativeDocumentMoniker": "classes\\memberService.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\memberService.cpp",
+              "RelativeToolTip": "classes\\memberService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T12:13:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classMember.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classMember.cpp",
+              "RelativeDocumentMoniker": "classes\\classMember.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classMember.cpp",
+              "RelativeToolTip": "classes\\classMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T11:46:27.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "classCar.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classCar.cpp",
+              "RelativeDocumentMoniker": "classes\\classCar.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classCar.cpp",
+              "RelativeToolTip": "classes\\classCar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T11:34:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "thisSample.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\thisSample.cpp",
+              "RelativeDocumentMoniker": "classes\\thisSample.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\thisSample.cpp",
+              "RelativeToolTip": "classes\\thisSample.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T11:24:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "classDog3.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classDog3.cpp",
+              "RelativeDocumentMoniker": "classes\\classDog3.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classDog3.cpp",
+              "RelativeToolTip": "classes\\classDog3.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T11:04:33.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "informationHide.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\informationHide.cpp",
+              "RelativeDocumentMoniker": "classes\\informationHide.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\informationHide.cpp",
+              "RelativeToolTip": "classes\\informationHide.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T10:43:59.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "classDog2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classDog2.cpp",
+              "RelativeDocumentMoniker": "classes\\classDog2.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classDog2.cpp",
+              "RelativeToolTip": "classes\\classDog2.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T10:29:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "classDog.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\classDog.cpp",
+              "RelativeDocumentMoniker": "classes\\classDog.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\classDog.cpp",
+              "RelativeToolTip": "classes\\classDog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T10:28:55.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\classes\\classes\\Test.cpp",
+              "RelativeDocumentMoniker": "classes\\Test.cpp",
+              "ToolTip": "C:\\cplusworks\\classes\\classes\\Test.cpp",
+              "RelativeToolTip": "classes\\Test.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T12:36:16.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

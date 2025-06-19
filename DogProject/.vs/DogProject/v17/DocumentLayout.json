@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\DogProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|C:\\cplusworks\\DogProject\\DogProject\\dog.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|solutionrelative:DogProject\\dog.h.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|C:\\cplusworks\\DogProject\\DogProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|solutionrelative:DogProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|C:\\cplusworks\\DogProject\\DogProject\\dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A4F24EF-8EFA-40CB-B896-F8BBEA98D64A}|DogProject\\DogProject.vcxproj|solutionrelative:DogProject\\dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dog.h.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DogProject\\DogProject\\dog.h.cpp",
+              "RelativeDocumentMoniker": "DogProject\\dog.h.cpp",
+              "ToolTip": "C:\\cplusworks\\DogProject\\DogProject\\dog.h.cpp",
+              "RelativeToolTip": "DogProject\\dog.h.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T12:41:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dog.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DogProject\\DogProject\\dog.cpp",
+              "RelativeDocumentMoniker": "DogProject\\dog.cpp",
+              "ToolTip": "C:\\cplusworks\\DogProject\\DogProject\\dog.cpp",
+              "RelativeToolTip": "DogProject\\dog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T12:32:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DogProject\\DogProject\\main.cpp",
+              "RelativeDocumentMoniker": "DogProject\\main.cpp",
+              "ToolTip": "C:\\cplusworks\\DogProject\\DogProject\\main.cpp",
+              "RelativeToolTip": "DogProject\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T12:31:54.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

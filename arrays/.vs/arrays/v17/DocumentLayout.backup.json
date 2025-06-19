@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|C:\\cplusworks\\arrays\\arrays\\findMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|solutionrelative:arrays\\findMin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|C:\\cplusworks\\arrays\\arrays\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|solutionrelative:arrays\\intArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|C:\\cplusworks\\arrays\\arrays\\stringArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{356B0B8C-22B7-40AC-B4A1-E4F0050976A9}|arrays\\arrays.vcxproj|solutionrelative:arrays\\stringArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "findMin.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\arrays\\arrays\\findMin.cpp",
+              "RelativeDocumentMoniker": "arrays\\findMin.cpp",
+              "ToolTip": "C:\\cplusworks\\arrays\\arrays\\findMin.cpp",
+              "RelativeToolTip": "arrays\\findMin.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T11:00:11.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intArray.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\arrays\\arrays\\intArray.cpp",
+              "RelativeDocumentMoniker": "arrays\\intArray.cpp",
+              "ToolTip": "C:\\cplusworks\\arrays\\arrays\\intArray.cpp",
+              "RelativeToolTip": "arrays\\intArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T10:40:13.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stringArray.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\arrays\\arrays\\stringArray.cpp",
+              "RelativeDocumentMoniker": "arrays\\stringArray.cpp",
+              "ToolTip": "C:\\cplusworks\\arrays\\arrays\\stringArray.cpp",
+              "RelativeToolTip": "arrays\\stringArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T10:22:43.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
