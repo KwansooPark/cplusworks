@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\cplusworks\\pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59F7AC8A-29EE-4805-A618-5DA7609087C4}|pointers\\pointers.vcxproj|C:\\cplusworks\\pointers\\pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59F7AC8A-29EE-4805-A618-5DA7609087C4}|pointers\\pointers.vcxproj|solutionrelative:pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{72AE7D38-CB40-4BC0-B265-7BE8EC20D0C8}|pointers\\pointers.vcxproj|C:\\cplusworks\\pointers\\pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72AE7D38-CB40-4BC0-B265-7BE8EC20D0C8}|pointers\\pointers.vcxproj|solutionrelative:pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F7AC8A-29EE-4805-A618-5DA7609087C4}|pointers\\pointers.vcxproj|C:\\cplusworks\\pointers\\pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59F7AC8A-29EE-4805-A618-5DA7609087C4}|pointers\\pointers.vcxproj|solutionrelative:pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{72AE7D38-CB40-4BC0-B265-7BE8EC20D0C8}|pointers\\pointers.vcxproj|C:\\cplusworks\\pointers\\pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72AE7D38-CB40-4BC0-B265-7BE8EC20D0C8}|pointers\\pointers.vcxproj|solutionrelative:pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,9 +28,9 @@
               "RelativeDocumentMoniker": "pointers\\calcScore.cpp",
               "ToolTip": "C:\\cplusworks\\pointers\\pointers\\calcScore.cpp",
               "RelativeToolTip": "pointers\\calcScore.cpp",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwDYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T12:04:02.094Z",
+              "WhenOpened": "2025-06-17T12:03:12.167Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +41,9 @@
               "RelativeDocumentMoniker": "pointers\\pointer1.cpp",
               "ToolTip": "C:\\cplusworks\\pointers\\pointers\\pointer1.cpp",
               "RelativeToolTip": "pointers\\pointer1.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-17T11:38:41.824Z",
+              "WhenOpened": "2025-06-17T11:38:43.552Z",
               "EditorCaption": ""
             }
           ]

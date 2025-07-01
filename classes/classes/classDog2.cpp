@@ -2,26 +2,25 @@
 using namespace std;
 
 /*
-	- 멤버변수에 직접 접근하는 것은 캡슐화에 좋지 않음.
-	- 매개변수가 있는 생성자 사용이 좋음.ㄹ
-
+	- 멤버변수에 직접 접근하는 것은 캡슐화에 좋지 않음
+	  매개변수가 있는 생성자 사용이 좋음
 */
 
 class Dog {
 public:
-	string type;	//종류
-	int age;		//나이
+	string type;  //종류
+	int age;      //나이
 
 	//생성자
-	Dog() {} //기본 생성자
+	Dog(){}  //기본 생성자
 
 	//매개변수(인자)가 있는 생성자
-	Dog(string _type, int _age) {
+	Dog(string _type, int _age){
 		type = _type;
 		age = _age;
 	}
 
-	void bark() {cout << "왈! 왈!\n";}
+	void bark() { cout << "왈~ 왈~\n"; }
 
 	void displayInfo() {
 		cout << "강아지 종류: " << type << endl;
@@ -35,6 +34,7 @@ int main()
 	Dog dog1;
 	dog1.type = "진돗개";
 	dog1.age = 3;
+	
 	dog1.displayInfo();
 	dog1.bark();
 

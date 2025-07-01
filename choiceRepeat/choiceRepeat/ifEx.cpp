@@ -10,7 +10,7 @@ int main()
 	if (n1 == n2) {
 		cout << "두 수는 같습니다.\n";
 	}
-	else {	//n1 != n2
+	else { // n1 != n2
 		cout << "두 수는 같지 않습니다.\n";
 	}
 
@@ -18,8 +18,8 @@ int main()
 	string str1 = "사과";
 	string str2 = "귤";
 
-	cout << str1.compare("사과") << endl;	//0
-	cout << str1.compare("바나나") << endl;	//1
+	cout << str1.compare("사과") << endl;    //0
+	cout << str1.compare("바나나") << endl;  //1
 
 	if (str1.compare(str2) == 0) {
 		cout << "두 문자열이 일치합니다.\n";

@@ -2,12 +2,11 @@
 using namespace std;
 
 /*
-	this의 사용 이유: 외부 입력변수와 멤버 변수의 이름을 같게 하여 유지보수 시 효율성을 갖도록 함.
-	(java: this, pytho: sefl)
-
+   this의 사용 이유 - 외부 입력변수와 멤버 변수의 이름을 같게해서
+                     유지 보수시에 효율성을 갖도록 함
+					 (java - this, python - self)
 */
-
-class Birthday {
+class BirthDay {
 private:
 	int day;
 	int month;
@@ -22,16 +21,18 @@ public:
 	void printThis() {
 		cout << this << endl;
 	}
-
 };
 
 int main()
 {
-	Birthday bDay;
+	BirthDay bDay;
 	bDay.setYear(2025);
 
 	//객체의 주소 출력
 	cout << &bDay << endl;
+
+	//this 주소
+	bDay.printThis(); 
 
 	return 0;
 }

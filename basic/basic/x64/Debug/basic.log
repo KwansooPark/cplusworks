@@ -1,2 +1,2 @@
-﻿  inputData2.cpp
-  basic.vcxproj -> C:\c++works\basic\x64\Debug\basic.exe
+﻿  input.cpp
+LINK : fatal error LNK1168: C:\c++works\basic\x64\Debug\basic.exe을(를) 쓰기용으로 열 수 없습니다.

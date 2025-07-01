@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\cplusworks\\choiceRepeat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DEBF27C5-2865-45E3-8719-CF3733B6CD6B}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|C:\\cplusworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3352ECE4-7EAA-4A25-B480-A68492E73002}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,9 +32,9 @@
               "RelativeDocumentMoniker": "choiceRepeat\\forEx.cpp",
               "ToolTip": "C:\\cplusworks\\choiceRepeat\\choiceRepeat\\forEx.cpp",
               "RelativeToolTip": "choiceRepeat\\forEx.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:48:36.722Z",
+              "WhenOpened": "2025-06-12T12:48:37.65Z",
               "EditorCaption": ""
             },
             {
@@ -49,9 +45,9 @@
               "RelativeDocumentMoniker": "choiceRepeat\\keyRepeat.cpp",
               "ToolTip": "C:\\cplusworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp",
               "RelativeToolTip": "choiceRepeat\\keyRepeat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:39:11.231Z"
+              "WhenOpened": "2025-06-12T12:38:58.565Z"
             },
             {
               "$type": "Document",
@@ -61,9 +57,9 @@
               "RelativeDocumentMoniker": "choiceRepeat\\ifEx.cpp",
               "ToolTip": "C:\\cplusworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp",
               "RelativeToolTip": "choiceRepeat\\ifEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:28:22.48Z"
+              "WhenOpened": "2025-06-12T12:28:19.469Z"
             }
           ]
         }
