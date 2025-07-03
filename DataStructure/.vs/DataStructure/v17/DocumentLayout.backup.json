@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\sortEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\sortEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\sortEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\mapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\mapEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\vectorBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\vectorBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\vectorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|C:\\cplusworks\\DataStructure\\DataStructure\\templateMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C0FFDEB-BAD3-42C6-BFB1-E541D955A558}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\templateMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\sortEx2.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\sortEx2.cpp",
+              "RelativeToolTip": "DataStructure\\sortEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:43:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sortEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\sortEx1.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\sortEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\sortEx1.cpp",
+              "RelativeToolTip": "DataStructure\\sortEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:35:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dictionary.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\dictionary.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\dictionary.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\dictionary.cpp",
+              "RelativeToolTip": "DataStructure\\dictionary.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:15:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mapEx.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\mapEx.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\mapEx.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\mapEx.cpp",
+              "RelativeToolTip": "DataStructure\\mapEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T12:03:08.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vectorBook.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\vectorBook.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\vectorBook.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\vectorBook.cpp",
+              "RelativeToolTip": "DataStructure\\vectorBook.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:30:45.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vectorEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\vectorEx1.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\vectorEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\vectorEx1.cpp",
+              "RelativeToolTip": "DataStructure\\vectorEx1.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T11:09:18.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "templateMath.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\DataStructure\\DataStructure\\templateMath.cpp",
+              "RelativeDocumentMoniker": "DataStructure\\templateMath.cpp",
+              "ToolTip": "C:\\cplusworks\\DataStructure\\DataStructure\\templateMath.cpp",
+              "RelativeToolTip": "DataStructure\\templateMath.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T10:38:35.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
