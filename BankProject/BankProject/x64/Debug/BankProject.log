@@ -1,0 +1,5 @@
+﻿  BankMain.cpp
+C:\cplusworks\BankProject\BankProject\BankMain.cpp(13,11): error C2039: 'push_back_back': 'std::vector<BankAccount,std::allocator<BankAccount>>'의 멤버가 아닙니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(429,7):
+      'std::vector<BankAccount,std::allocator<BankAccount>>' 선언을 참조하십시오.
+  

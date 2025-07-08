@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworks\\filelO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\scorelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\scorelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\inputFileWrite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\inputFileWrite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\fileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\fileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\fileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\tryCatchEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\tryCatchEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|C:\\cplusworks\\filelO\\filelO\\tryCatchEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7542FCDC-4669-4FDC-80E0-716CACFAC16D}|filelO\\filelO.vcxproj|solutionrelative:filelO\\tryCatchEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scorelist.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\scorelist.cpp",
+              "RelativeDocumentMoniker": "filelO\\scorelist.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\scorelist.cpp*",
+              "RelativeToolTip": "filelO\\scorelist.cpp*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T12:38:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inputFileWrite.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\inputFileWrite.cpp",
+              "RelativeDocumentMoniker": "filelO\\inputFileWrite.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\inputFileWrite.cpp",
+              "RelativeToolTip": "filelO\\inputFileWrite.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T12:27:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fileRead1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\fileRead1.cpp",
+              "RelativeDocumentMoniker": "filelO\\fileRead1.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\fileRead1.cpp",
+              "RelativeToolTip": "filelO\\fileRead1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T12:20:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fileWrite1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\fileWrite1.cpp",
+              "RelativeDocumentMoniker": "filelO\\fileWrite1.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\fileWrite1.cpp",
+              "RelativeToolTip": "filelO\\fileWrite1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T12:07:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tryCatchEx2.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\tryCatchEx2.cpp",
+              "RelativeDocumentMoniker": "filelO\\tryCatchEx2.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\tryCatchEx2.cpp",
+              "RelativeToolTip": "filelO\\tryCatchEx2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T11:39:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tryCatchEx1.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\filelO\\filelO\\tryCatchEx1.cpp",
+              "RelativeDocumentMoniker": "filelO\\tryCatchEx1.cpp",
+              "ToolTip": "C:\\cplusworks\\filelO\\filelO\\tryCatchEx1.cpp",
+              "RelativeToolTip": "filelO\\tryCatchEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T11:29:20.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
